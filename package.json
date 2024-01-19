@@ -1,0 +1,11 @@
+{
+  "name": "mern-chat-app",
+  "version": "1.0.0",
+  "description": "a full stack chat app with socket io",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aman Raina",
+  "license": "ISC"
+}
